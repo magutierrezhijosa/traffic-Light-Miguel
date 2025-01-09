@@ -10,3 +10,53 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.red{
+
+    background-color: rgb(255, 17, 0);
+
+}
+
+.red-dark{
+
+    background-color: darkred;
+}
+
+.yellow{
+
+    background-color: rgb(255, 221, 0);
+}
+
+.yellow-dark{
+
+    background-color: rgb(92, 95, 6);
+}
+
+.green{
+
+    background-color: rgb(26, 255, 0);
+}
+
+.green-dark{
+
+    background-color:rgb(9, 95, 6 );
+}
+
+.circle-size{
+
+    width : 50px;
+    height : 50px;
+}
+
+.purple{
+
+    
+    background-color:rgb(153, 51, 255);
+}
+
+.purple-dark{
+
+    background-color: rgb(102, 0, 204);
+}
+
+
